@@ -1,0 +1,39 @@
+Saahil Khan Mehar
+Bengaluru, Karnataka, India | saahilkhanmehar26@gmail.com | 9036958633
+GitHub: github.com/saahilkhan17 | Portfolio: saahilkhan17.github.io
+
+EDUCATION
+B.Tech, Computer Science & Engineering — CMR University, Bengaluru (2023–2027)
+CGPA: 8.10
+
+SUMMARY
+Final-year Computer Science student and Python backend developer. I build REST APIs
+with FastAPI and Django, work with PostgreSQL, and have hands-on machine learning
+experience with scikit-learn, PyTorch and LangChain. Looking for a Python / AI-ML
+engineering internship where I can ship real backend systems.
+
+SKILLS
+Python, Java, JavaScript, SQL, FastAPI, Django, Flask, REST API, PostgreSQL, MySQL,
+MongoDB, Redis, Docker, Git, Linux, scikit-learn, pandas, NumPy, PyTorch,
+TensorFlow, machine learning, deep learning, natural language processing, LangChain,
+transformers, data analysis, statistics, HTML, CSS
+
+EXPERIENCE
+Banking Operations Intern — State Bank of India, Vidya Nagar, Bidar (Feb 2025 – Jun 2025)
+- Assisted customers with account services and KYC documentation.
+- Supported branch staff with data entry and record verification.
+
+PROJECTS
+PayLedger API — Double-entry bookkeeping REST API (Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, pytest)
+- 26/26 tests passing; Docker + CI; idempotent ledger entries with audit trail.
+ContextQA API — Retrieval-Augmented Generation service (Python, FastAPI, pgvector, PostgreSQL)
+- RAG pipeline with chunking, embeddings and retrieval; eval Hit@1 90%, Hit@3 100%.
+CareerOps — Job-search platform (Python, FastAPI, PostgreSQL, Redis, Celery)
+- Async workers, guarded status state machine, JD match scoring; 166 tests at 98.4% coverage.
+IdentityBridge — SCIM 2.0 identity provisioning service (Node.js, PostgreSQL, Redis)
+
+CERTIFICATIONS
+NPTEL — Introduction to Machine Learning, IIT Kharagpur
+
+ACHIEVEMENTS
+- Participated in 10+ hackathons.
